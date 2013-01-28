@@ -1,0 +1,9 @@
+{
+  "name": "smooth",
+  "version": "0.0.1",
+  "description": "interpolate mesh pos system",
+  "keywords": [],
+  "author": "stagas",
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
