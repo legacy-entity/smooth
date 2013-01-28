@@ -1,5 +1,11 @@
 
 /**
+ * Module dependencies.
+ */
+
+var v = require('vector')
+
+/**
  * smooth
  */
 

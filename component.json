@@ -2,8 +2,11 @@
   "name": "smooth",
   "version": "0.0.1",
   "description": "interpolate mesh pos system",
-  "keywords": [],
+  "keywords": ["game","interpolate","smooth","system"],
   "author": "stagas",
   "license": "MIT",
+  "dependencies": {
+    "entity/vector": "*"
+  },
   "scripts": ["index.js"]
 }
